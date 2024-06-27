@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning the basics of programming and certain specialties such as web development.
 
-- 📫 How to reach me **bbaez.dev@gmail.com**
+- 📫 How to reach me **bbaez.dev@gmail.com**.
 
 - ⚡ Fun fact : The surf 🏄 and music 🎵 are the reasons to live.
 
