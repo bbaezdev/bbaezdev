@@ -6,11 +6,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I'm currently learning the basics of programming and certain specialties such as web development.
+- 🌱 I'm currently learning the basics of programming and certain specialties such as web development .
 
 - 📫 How to reach me **bbaez.dev@gmail.com**
 
-- ⚡ Fun fact : The surf 🏄 and music 🎵 are the reasons to live.
+- ⚡ Fun fact : The surf 🏄 and music 🎵 are the reasons to live .
 
 <br>
 
