@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bbaez.dev@gmail.com**
 
-- ⚡ Chill fact : The surf 🏄 and music 🎵 are the reasons to live.
+- ⚡ Fun fact : The surf 🏄 and music 🎵 are the reasons to live.
 
 <br>
 
