@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Benjamín Báez</h1>
+<h1 align="center">Hi 👋, I'm Benjamín Báez</h1>
 <h3 align="center">Student at Informatic Civil Engineering 👨‍💻</h3>
 
 <br>
